@@ -52,7 +52,7 @@ Para manter a organização visual, todos os componentes seguem o layout:
 
 1. **Clone este repositório:**
 ```bash
-git clone https://github.com/seu-usuario/react-state-exercises.git
+[git clone https://github.com/seu-usuario/react-state-exercises.git](https://github.com/EsmeraldoCarneiro/Exercicios-05_JS_JSX_HTML_React.git)
 
 ```
 
