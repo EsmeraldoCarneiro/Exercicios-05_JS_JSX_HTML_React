@@ -58,7 +58,7 @@ class Retangulo extends Component {
           onClick={this.mudarLargura}
           style={{
             padding: '10px 20px',
-            backgroundColor: '#646cff',
+            backgroundColor: '#2b2d63',
             color: 'white',
             border: 'none',
             borderRadius: '4px',
